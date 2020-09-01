@@ -13,7 +13,7 @@ A través del proyecto intentaremos dar respuesta a esta pregunta.
 * Estadísticas
 * Lenguaje de programación Python
 * Bibliotecas Pandas y Numpy
-* GeoPandas y Folium para el proceso de Geolocalización
+
 
 El conjunto de datos utilizado se puede descargar desde el siguiente enlace
 https://www.kaggle.com/teajay/global-shark-attacks/version/1
